@@ -1,0 +1,13 @@
+[user]
+	email = noah.james.archer@gmail.com
+	name = Noah Archer
+[push]
+	default = simple
+[github]
+	user = njarch23
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
